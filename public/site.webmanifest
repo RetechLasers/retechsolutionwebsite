@@ -1,0 +1,9 @@
+{
+  "name": "Retech Solutions",
+  "short_name": "Retech",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#071a3b",
+  "theme_color": "#071a3b",
+  "icons": [{"src":"/favicon.png","sizes":"512x512","type":"image/png"}]
+}
